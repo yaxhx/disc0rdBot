@@ -31,3 +31,8 @@ Once the main.py file is ran the bot becomes online in whichever discord server 
 - `!ping`
 - `!userinfo @xyz`
 - `!serverinfo`
+
+
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV6dHN3M2R4dzB0eDc3dTdmZDhxa2k1eWgwb3pzYmprZ21hMjh2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjIozGTgFZk7BKJU7q/giphy.gif">
+</div>
