@@ -12,7 +12,7 @@ This Discord bot is designed to assist with various tasks such as moderation and
 - **User Join/Leave Messages** : Sends a welcome message when a user joins and a goodbye message when a user leaves
 
 <div align="center">
-    <img src="[https://media.giphy.com/media/CjIYBczW2FeuHs8Yuj/giphy.gif?cid=790b76112g7xzmhng30gn028wcqk64nynq2mkli0eamjla84&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTgza3J5eDI4bDltN2VpanZvMG1tbmQ2ZHdnbDh5dDJpMDFwMjdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HNqcumvSGHYjK/giphy.gif]" width="400" height="300">
+    <img src="https://media.giphy.com/media/CjIYBczW2FeuHs8Yuj/giphy.gif?cid=790b76112g7xzmhng30gn028wcqk64nynq2mkli0eamjla84&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTgza3J5eDI4bDltN2VpanZvMG1tbmQ2ZHdnbDh5dDJpMDFwMjdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HNqcumvSGHYjK/giphy.gif"> 
 </div>
 
 
