@@ -1,4 +1,3 @@
-
 # disc0rdBot
 
 This Discord bot is designed to assist with various tasks such as moderation and utility commands.
