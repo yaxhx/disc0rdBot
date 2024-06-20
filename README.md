@@ -11,6 +11,9 @@ This Discord bot is designed to assist with various tasks such as moderation and
 - **!serverinfo** : Gets info about the server
 - **User Join/Leave Messages** : Sends a welcome message when a user joins and a goodbye message when a user leaves
 
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV6dHN3M2R4dzB0eDc3dTdmZDhxa2k1eWgwb3pzYmprZ21hMjh2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjIozGTgFZk7BKJU7q/giphy.gif" width="300" height="200">
+</div>
 
 
 ## Libraries Used
@@ -33,6 +36,3 @@ Once the main.py file is ran the bot becomes online in whichever discord server 
 - `!serverinfo`
 
 
-<div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV6dHN3M2R4dzB0eDc3dTdmZDhxa2k1eWgwb3pzYmprZ21hMjh2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjIozGTgFZk7BKJU7q/giphy.gif">
-</div>
